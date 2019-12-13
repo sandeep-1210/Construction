@@ -10,6 +10,7 @@ Tutorial on this project is available at https://velopert.com/2448 (KOREAN)
 - node.js 6.9.x
 - npm 3.x
 - MongoDB 3.0
+-
 
 ### Installing & Configuration
 1) Install dependencies
